@@ -1,0 +1,7 @@
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.exe.config
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.exe
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\bin\Debug\CalculatingAverages.pdb
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.exe
+C:\Users\Nick\Desktop\MSSA\MSSA CAD\ISTA 220\CalculatingAverages\CalculatingAverages\obj\Debug\CalculatingAverages.pdb
